@@ -185,7 +185,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
             com.ieti.googlemaps.model.Location currentLoc = (com.ieti.googlemaps.model.Location) data.getSerializableExtra("Location");
             androidLocation.setLatitude(currentLoc.getLatitude());
             androidLocation.setLongitude(currentLoc.getLongitude());
-            addMarkerAndZoom(androidLocation,currentLoc.getName() + ": "+ currentLoc.getDescription(),12);
+            addMarkerAndZoom(androidLocation,currentLoc.getName() + ": "+ currentLoc.getDescription(),5);
 
         }
     }
