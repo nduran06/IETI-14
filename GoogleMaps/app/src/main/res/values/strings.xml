@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Google Maps</string>
+    <string name="address">Address</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="findAddress">find address</string>
+    <string name="no_address_found">no address found</string>
+    <string name="address_found">address found</string>
+    <string name="service_not_available">service not available</string>
+    <string name="invalid_lat_long_used">invalid lat long used</string>
+    <string name="no_location_data_provided">no location data provided</string>
+    <string name="add_location">add</string>
+    <string name="add_new_loc_title">Add Location</string>
+    <string name="location_name">Name</string>
+    <string name="location_desc">Description</string>
+    <string name="location_latitude">Latitude</string>
+    <string name="location_longitude">Longitude</string>
+    <string name="save_new_loc_button">save location</string>
+</resources>
